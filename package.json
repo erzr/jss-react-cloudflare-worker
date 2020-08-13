@@ -55,7 +55,7 @@
     "react-i18next": "~11.3.3",
     "react-router-dom": "~5.1.0",
     "react-scripts": "3.4.0",
-    "serialize-javascript": "~2.1.0"
+    "serialize-javascript": "~3.1.0"
   },
   "devDependencies": {
     "@babel/register": "~7.6.2",
